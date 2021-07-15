@@ -1,6 +1,6 @@
 # Password-Generator
 
-![Screen Capture](./assets/screencapture.jpg)
+![Screen Capture](./Assets/screencapture.jpg)
 
 ## Overview:
 ```
