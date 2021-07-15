@@ -13,15 +13,15 @@ function writePassword() {
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
-//my code starts here
 
 
 //keep asking user for password length until user enter a NUMBER between 8 to 128 
 while (passwordLength < 8 || passwordLength > 128 || isNaN(passwordLength)) {
   var passwordLength = window.prompt("Please Enter a <Number> between 8 to 128 for Your Password Length:");
   console.log(passwordLength);
-
 };
+
+
 
 
 //Check to see if user wants numeric characters in her/his password
